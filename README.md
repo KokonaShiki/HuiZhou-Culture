@@ -1,6 +1,6 @@
 # HuiZhou-Culture
 ### 目录结构
 
-- [文件夹1](img1/)
-  - 文件1
-  - 文件2
+- [img1](img1/)
+  - ![图片1](img1/img1.jpg)
+  - ![图片1](img1/img2.jpg)
